@@ -1,5 +1,7 @@
 # PythonDisableCortana
 Python script to disable Cortana on Windows 10 computer
 
-# Notes
-Run with Administrator privileges
+# How to run on Windows 10
+- Backup your registries first 
+- Open Command Prompt as Administrator
+- Execute: py PythonDisableCortana.py
